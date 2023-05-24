@@ -28,11 +28,13 @@ h1,
   font-size: rem(72px);
   color: #fff;
   line-height: rem(76.8px);
+  text-transform: uppercase;
 }
 h2,
 .h2{
   font-size: rem(56px);
   line-height: rem(76.8px);
+  text-transform: uppercase;
  &--black{
   color: $black;
  }
@@ -94,9 +96,9 @@ ul {
 p {
   margin-bottom: 1rem;
   font-size: rem(16px);
-  line-height: rem(18px);
+  line-height: rem(30px);
   letter-spacing: 5%;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .text-left {

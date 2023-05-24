@@ -24,6 +24,7 @@
     &__main-decoration{
         display: flex;
         padding-bottom: rem(64px);
+        margin: 0 auto;
     }
     &__decoration{
         position: absolute;
